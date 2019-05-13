@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-app-mongoose-connects-docker-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taboca/nodejs-mongoose-app-connects-docker-mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taboca/nodejs-mongoose-app-connects-docker-mongo/issues"
+  },
+  "homepage": "https://github.com/taboca/nodejs-mongoose-app-connects-docker-mongo#readme",
+  "dependencies": {
+    "mongoose": "^5.5.8"
+  }
+}
