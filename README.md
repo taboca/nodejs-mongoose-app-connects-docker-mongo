@@ -8,7 +8,7 @@ Make sure you have Docker and docker-compose that will be using the docker-compo
 docker-compose up 
 ```
 
-Docker-compose will setup a new container based in the docker-compose.yml: 
+Docker-compose will setup two new containers based in the docker-compose.yml. The first is for Mongo db and the second is an db adminstration tool.  
 
 ```
 version: "3"
