@@ -1,4 +1,4 @@
-# A very simple sample with a NodeJS-based script that connects with Mongo db inside a Docker-based container 
+# An example of a NodeJS-based script that connects with Mongo db that lives inside a Docker-based container 
 
 ## Setup your container with Mongo
 
