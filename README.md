@@ -87,3 +87,8 @@ db.once('open', function() {
 ## Testing the new db and newly created collection
 
 You can use the second container, with Mongo Express, to check via local host port 8081 the newly created db from the above script. 
+
+```
+http://localhost:8081
+```
+
